@@ -1,0 +1,9 @@
+models
+
+.vscode
+.idea
+.ipynb_checkpoints
+__pycache__
+
+*.swap
+*.ipynb
